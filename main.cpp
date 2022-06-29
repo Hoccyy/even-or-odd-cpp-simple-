@@ -7,4 +7,4 @@ void Even_Odd(int num){
 
 int main(){
     Even_Odd(7); //Change your value here
-}
+} // By @Hoccyy
